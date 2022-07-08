@@ -1,0 +1,5 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/avenfenix/programas/emulation/learning-emulation/simple-virtual-machine'
+gcc svm.c -Wall -Wextra -g -std=c11 -o svm
+make: Leaving directory '/home/avenfenix/programas/emulation/learning-emulation/simple-virtual-machine'
+ 
